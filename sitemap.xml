@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zql-gl.github.io/posts/1.html</loc>
+    
+    <lastmod>2022-08-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zql-gl.github.io/about/index.html</loc>
     
     <lastmod>2022-08-22</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://zql-gl.github.io/List/gallery/ohmygirl/index.html</loc>
     
     <lastmod>2021-09-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zql-gl.github.io/posts/1.html</loc>
-    
-    <lastmod>2021-09-07</lastmod>
     
   </url>
   

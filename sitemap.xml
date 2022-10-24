@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zql-gl.github.io/List/gallery/ohmygirl/index.html</loc>
+    
+    <lastmod>2022-10-24</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zql-gl.github.io/posts/4.html</loc>
     
     <lastmod>2022-10-23</lastmod>
@@ -31,13 +38,6 @@
   
   <url>
     <loc>https://zql-gl.github.io/posts/1.html</loc>
-    
-    <lastmod>2022-08-23</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zql-gl.github.io/List/gallery/ohmygirl/index.html</loc>
     
     <lastmod>2022-08-23</lastmod>
     
@@ -116,7 +116,7 @@
 
   <url>
     <loc>https://zql-gl.github.io/</loc>
-    <lastmod>2022-10-23</lastmod>
+    <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -124,14 +124,14 @@
   
   <url>
     <loc>https://zql-gl.github.io/tags/%E6%83%B3%E6%B3%95/</loc>
-    <lastmod>2022-10-23</lastmod>
+    <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zql-gl.github.io/tags/%E7%9F%A5%E8%AF%86%E6%96%87%E6%A1%A3/</loc>
-    <lastmod>2022-10-23</lastmod>
+    <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -140,21 +140,21 @@
   
   <url>
     <loc>https://zql-gl.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-10-23</lastmod>
+    <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zql-gl.github.io/categories/Java/</loc>
-    <lastmod>2022-10-23</lastmod>
+    <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zql-gl.github.io/categories/Linux/</loc>
-    <lastmod>2022-10-23</lastmod>
+    <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
